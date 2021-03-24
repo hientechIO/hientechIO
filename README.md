@@ -4,7 +4,7 @@
 - 🌱 I’m currently offering mentor service for interview preparation at FAANG/ or FAANG like companies
 - 🌱 I’m currently offering tech consultant services across the world in Web development, Software Development, Mobile App development with Scale, Big Data and Machine Learning AI, Data Science and Analytics
 - 📫 Reach me at hientechio@gmail.com
-<a href="https://www.buymeacoffee.com/hientech" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+- <a href="https://www.buymeacoffee.com/hientech" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 
 <!---
